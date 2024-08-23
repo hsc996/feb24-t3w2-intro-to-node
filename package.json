@@ -1,0 +1,12 @@
+{
+  "name": "feb24-t3w2-intro-to-node",
+  "version": "1.0.0",
+  "description": "Dice rolling terminal app.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Hannah",
+  "license": "ISC"
+}
